@@ -1,0 +1,10 @@
+{
+  "vine_boom": {
+    "sounds": [
+      {
+        "name": "deviceapp:vineboom",
+        "stream": false
+      }
+    ]
+  }
+}
